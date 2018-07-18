@@ -21,7 +21,7 @@ var fs = require('fs');
 
 client.on('ready', function(){ // Leaked by [ @M3a4x ]
     var ms = 30000 ;
-    var setGame = [`$help | $inv `,` Arab Bot By Arab TeaM !`];
+    var setGame = [`Arab Support `,` Arab Bot By Arab TeaM !`];
     var i = -1;
     var j = 0;
     setInterval(function (){
